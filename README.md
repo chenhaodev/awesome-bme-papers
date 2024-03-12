@@ -46,6 +46,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Data Models](#data-models)
 * [Credits](#credits)
 
+## Practical Research Papers 
+[bio4mis-paper](papers/README.md) cover a broad spectrum of advancements and methodologies in digital healthcare, focusing on the utilization of accelerometers, deep learning, and machine learning in various aspects of patient monitoring and evaluation. They encompass the development and application of algorithms for step count, activity recognition, gait and fall patterns, sleep/wake state classification, risk assessment models like the LACE index, ECG analysis using deep learning, physiological metric analysis for emotions, and speech analysis.
+
 ## Research Overviews
 
 * [Biomedical Informatics on the Cloud: A Treasure Hunt for Advancing Cardiovascular Medicine](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.117.310967) - An overview of how BioIE and bioinformatics workflows can be applied to questions in cardiovascular health and medicine research.
